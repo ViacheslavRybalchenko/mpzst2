@@ -1,0 +1,3 @@
+﻿  mpzst 8.cpp
+C:\Users\User\source\repos\mpzst 8\mpzst 8\mpzst 8.cpp(16,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  mpzst 8.vcxproj -> C:\Users\User\source\repos\mpzst 8\x64\Debug\mpzst 8.exe
