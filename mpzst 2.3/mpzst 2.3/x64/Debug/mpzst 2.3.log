@@ -1,0 +1,3 @@
+﻿  mpzst 2.3.cpp
+C:\Users\User\source\repos\mpzst 2.3\mpzst 2.3\mpzst 2.3.cpp(25,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  mpzst 2.3.vcxproj -> C:\Users\User\source\repos\mpzst 2.3\x64\Debug\mpzst 2.3.exe
